@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(21, 255, 0);
+    text-align: center;
+    text-transform: inherit;
+    text-decoration-style: solid;
+    text-indent: 20px;
+    text-decoration-skip-ink: 67;
+}
+button{
+    font-style: inherit;
+    background-color: rgb(251, 250, 252);
+    background-position: 40px;
+    backface-visibility: inherit;
+    text-decoration: solid;
+    text-decoration-color: aliceblue;
+}
